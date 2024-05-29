@@ -1,1 +1,1 @@
-# auth_app
+This React Native authentication app is built using Native Stack Navigator for navigation and Firebase for data storage. It manages state and side effects by utilizing the useContext, useEffect, and useState hooks.
